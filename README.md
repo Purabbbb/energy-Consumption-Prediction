@@ -2,6 +2,7 @@
 
 This repository contains a short-term (5-minute interval) electricity demand forecasting model built using a multivariate CNN-LSTM and an optimized Stacked LSTM architecture.
 The model is trained on a 4-year (2021–2024) multivariate dataset and achieves high predictive accuracy on real unseen data.
+Link to the deployed web-app: https://web-production-bd8d.up.railway.app/about
 
 🚀 Key Features
 
