@@ -20,9 +20,13 @@ The model is trained on a 4-year (2021–2024) multivariate dataset and achieves
 
 📊 Model Performance
 Metric	Value
+
 R² Score	0.9520
+
 MAPE	4.66%
+
 MAE	199.17 kW
+
 RMSE	302.21 kW
 
 
